@@ -1,1 +1,1 @@
-# kazak-tili-project
+# kazak-tili-project.github.io
